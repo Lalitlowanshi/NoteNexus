@@ -1,6 +1,7 @@
 # 📝 Note Nexus
 
 **Note Nexus** is a platform to help junior students access high-quality study material — including both **handwritten** and **digital PDF** notes — in an organized and easy-to-use format.
+Note Nexus is a streamlined note-sharing platform designed to help juniors access high-quality academic notes with ease. It bridges the gap between senior and junior students by enabling efficient distribution of curated study materials, enhancing learning and collaboration within the campus.
 
 ## 🎯 Objective
 
