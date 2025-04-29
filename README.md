@@ -1,25 +1,20 @@
-📚 Note Nexus
-Note Nexus is a note-sharing platform built to help students easily access and share academic materials. Our goal is to provide juniors with organized, high-quality digital and PDF notes curated by seniors — making learning smoother and more collaborative.
+# 📝 Note Nexus
 
-🚀 Features
-📁 Organized subject-wise notes
-📄 Supports PDF and digital text notes
-🔍 Easy search and filtering
-🧑‍🏫 Notes contributed by seniors
-🧠 Helps in exam preparation and concept revision
-🌐 Simple and clean user interface
-🛠 Tech Stack
-Frontend: HTML, CSS, JavaScript (or React, if applicable)
-Backend: Node.js, Express (if used)
-Database: MongoDB / Firebase (mention what you used)
-Storage: Cloudinary / Google Drive / Firebase Storage (if any)
-📦 Installation (for developers)
-# Clone the repository
-git clone https://github.com/your-username/note-nexus.git
-cd note-nexus
+**Note Nexus** is a platform to help junior students access high-quality study material — including both **handwritten** and **digital PDF** notes — in an organized and easy-to-use format.
 
-# Install dependencies
-npm install
+## 🎯 Objective
 
-# Start the server (if applicable)
-npm start
+The mission of **Note Nexus** is to support junior students by providing them with structured and reliable notes that can boost their academic performance and save time during exam preparation.
+
+## 🚀 Features
+
+- 📄 Handwritten notes in scanned PDF format
+- 🧾 Digital notes available for download
+- 🔍 Organized by subjects, semesters, and topics
+- 🎯 Search and filter functionality
+- 📱 Mobile-friendly and simple UI
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript    
+- **Hosting:** (e.g., GitHub Pages / Vercel / Netlify)
